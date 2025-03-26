@@ -57,6 +57,13 @@ The fix involves two main command blocks:
 
 ## Step-by-Step Fix
 
+**Navigate to Your Project Directory:**
+
+   ```bash
+   cd /var/www/html
+   ```
+
+
 ### Step 1: Reset Certificate Permissions and Restart Core Services
 
 Execute the following command to adjust permissions on your certificate directory and refresh your application’s background processes:
