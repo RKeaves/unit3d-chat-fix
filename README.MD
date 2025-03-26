@@ -101,14 +101,8 @@ sudo php artisan set:all_cache && sudo systemctl restart php8.4-fpm && sudo php 
 
 ---
 
-## Acknowledgements
-
-Special thanks to:
-- **Airclay:** For providing the key insights and commands used in this fix.
-- **UNIT3D Community:** For their ongoing support and contributions in troubleshooting and resolving issues.
-
----
-
 _If you have any questions or further issues, please open an issue or submit a pull request with your suggestions._
+
+## Acknowledgements
 
 This project was made possible thanks to airclay aka [ericlay](https://github.com/ericlay).
