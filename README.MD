@@ -11,8 +11,41 @@ _This guide provides a step-by-step solution to fix a common issue where home pa
 ---
 
 <div style="border: 2px solid #e74c3c; background-color: #f9e6e6; padding: 10px; border-radius: 5px; margin: 15px 0;">
-  <strong>🚨 IMPORTANT:</strong> Before performing any fixes, ensure you have a current backup of your system configuration and data.
+  <strong>🚨 IMPORTANT:</strong> Before starting the update, always create a backup of your current installation! In this tutorial, we assume you’ve already created and securely stored your latest backup.
 </div>
+
+
+## Create a Backup
+
+Regular backups protect your UNIT3D installation. Use PHP Artisan to securely back up your files and database.
+
+### Step-by-Step Backup Process
+
+1. **Navigate to Your Project Directory:**
+
+   ```bash
+   cd /var/www/html
+   ```
+
+2. **Run the Artisan Backup Command:**
+
+   ```bash
+   php artisan backup:run
+   ```
+
+3. **View Available Backups:**
+
+   To list all generated backups, execute:
+
+   ```bash
+   php artisan backup:list
+   ```
+
+### unit3d-backup-restore
+
+[![GitHub Backup & Restore Tutorial](https://img.shields.io/badge/UNIT3D%20Backup%20%26%20Restore-Tutorial-blue?style=flat-square)](https://github.com/RKeaves/unit3d-backup-restore)  
+
+> For a more detailed guide on creating and managing backups, you may want to check out this other [tutorial](https://github.com/RKeaves/unit3d-backup-restore)  🚀 
 
 ---
 
