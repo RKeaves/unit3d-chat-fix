@@ -53,8 +53,6 @@ The fix involves two main command blocks:
 2. **Refreshing Application Cache & PHP-FPM:**  
    Update application cache settings and ensure PHP-FPM is restarted.
 
-This solution has been successfully tested and shared by community member Airclay.
-
 ---
 
 ## Step-by-Step Fix
@@ -112,3 +110,5 @@ Special thanks to:
 ---
 
 _If you have any questions or further issues, please open an issue or submit a pull request with your suggestions._
+
+This project was made possible thanks to airclay aka [ericlay](https://github.com/ericlay).
