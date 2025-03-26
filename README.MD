@@ -6,7 +6,7 @@
   <img src="https://ptpimg.me/6o8x8j.png" alt="UNIT3D Logo" style="width: 12%;">
 </p>
 
-_This tutorial provides a step-by-step guide to resolve a common chat issue on UNIT3D installations where messages on the home page chat sometimes do not load properly and require a manual page refresh. Follow the guide below to ensure the chat functionality works seamlessly._
+_This guide provides a concise, step-by-step solution to fix a common issue where home page chat messages do not load automatically, requiring a manual refresh._
 
 ---
 
