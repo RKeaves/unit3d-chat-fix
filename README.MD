@@ -6,7 +6,7 @@
   <img src="https://ptpimg.me/6o8x8j.png" alt="UNIT3D Logo" style="width: 12%;">
 </p>
 
-_This guide provides a concise, step-by-step solution to fix a common issue where home page chat messages do not load automatically, requiring a manual refresh._
+_This guide provides a step-by-step solution to fix a common issue where home page chat messages do not load automatically, requiring a manual refresh._
 
 ---
 
