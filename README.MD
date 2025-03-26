@@ -57,12 +57,13 @@ The fix involves two main command blocks:
 
 ## Step-by-Step Fix
 
-**Navigate to Your Project Directory:**
+## Step: Navigate to Your Project Directory
 
-   ```bash
-   cd /var/www/html
-   ```
+> Before running any PHP Artisan commands, it’s essential that you are in your project's root directory.
 
+```bash
+cd /var/www/html
+```
 
 ### Step 1: Reset Certificate Permissions and Restart Core Services
 
